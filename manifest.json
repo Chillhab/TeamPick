@@ -1,6 +1,7 @@
 {
-  "name": "HT 16 Match Organizer",
-  "short_name": "HT16 Spiele",
+  "name": "TeamPick",
+  "short_name": "TeamPick",
+  "description": "TeamPick ist die einfache Web-App für Spielplanung und Kaderauswahl. Spiele anlegen, Zeiten & Ort setzen, Spieler auswählen und per WhatsApp teilen.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
