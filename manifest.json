@@ -1,11 +1,10 @@
 {
-  "name": "TeamPick",
+  "name": "TeamPick 2.5",
   "short_name": "TeamPick",
-  "description": "TeamPick ist die einfache Web-App für Spielplanung und Kaderauswahl. Spiele anlegen, Zeiten & Ort setzen, Spieler auswählen und per WhatsApp teilen.",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "background_color": "#eef3fa",
+  "theme_color": "#163b76",
   "icons": [
     {
       "src": "icons/icon-192.png",
